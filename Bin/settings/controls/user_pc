@@ -1,0 +1,46 @@
+{
+	"Aliases" : [
+		{
+			"name" : "Menu.Up",
+			"AliasesRef" : [
+				{ "names" : ["KEY_UP"]},
+				{ "names" : ["JOY_LEFT_STICK_V"]}
+			]
+		},
+		{
+			"name" : "Menu.Down",
+			"AliasesRef" : [
+				{ "names" : ["KEY_DOWN"]},
+				{ "names" : ["JOY_LEFT_STICK_NEGV"]}
+			]
+		},
+		{
+			"name" : "Menu.Action",
+			"AliasesRef" : [
+				{ "names" : ["KEY_RETURN"]},
+				{ "names" : ["JOY_A"]}
+			]
+		}
+		,
+		{
+			"name" : "Menu.AddHotkey",
+			"AliasesRef" : [
+				{ "names" : ["KEY_LCONTROL"]}
+			]
+		}
+		,
+		{
+			"name" : "Menu.StopEdit",
+			"AliasesRef" : [
+				{ "names" : ["KEY_ESCAPE"]}
+			]
+		}
+		,
+		{
+			"name" : "Menu.PauseGame",
+			"AliasesRef" : [
+				{ "names" : ["KEY_ESCAPE"]}
+			]
+		}
+	]
+} 

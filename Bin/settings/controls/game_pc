@@ -1,0 +1,60 @@
+﻿{
+
+	"Aliases" : [
+		{
+			"name" : "Player1.Up",
+			"AliasesRef" : [
+				{
+					"names" : [
+						"JOY_LEFT_STICK_V",
+						0
+					]
+				}
+			]
+		},
+		{
+			"name" : "Player1.Down",
+			"AliasesRef" : [
+				{
+					"names" : [
+						"JOY_LEFT_STICK_NEGV",
+						0
+					]
+				}
+			]
+		},
+		{
+			"name" : "Player2.Up",
+			"AliasesRef" : [
+				{
+					"names" : [
+						"KEY_P",
+						0
+					]
+				}
+			]
+		},
+		{
+			"name" : "Player2.Down",
+			"AliasesRef" : [
+				{
+					"names" : [
+						"KEY_L",
+						0
+					]
+				}
+			]
+		},
+		{
+			"name" : "Menu.AddHotkey",
+			"AliasesRef" : [
+				{
+					"names" : [
+						"KEY_LCONTROL",
+						0
+					]
+				}
+			]
+		}
+	]
+}
